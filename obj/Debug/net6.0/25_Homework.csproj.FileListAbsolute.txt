@@ -1,0 +1,30 @@
+E:\C#\Example C#\25_Homework\obj\Debug\net6.0\25_Homework.csproj.AssemblyReference.cache
+E:\C#\Example C#\25_Homework\obj\Debug\net6.0\25_Homework.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Example C#\25_Homework\obj\Debug\net6.0\25_Homework.AssemblyInfoInputs.cache
+E:\C#\Example C#\25_Homework\obj\Debug\net6.0\25_Homework.AssemblyInfo.cs
+E:\C#\Example C#\25_Homework\obj\Debug\net6.0\25_Homework.csproj.CoreCompileInputs.cache
+E:\C#\Example C#\25_Homework\bin\Debug\net6.0\25_Homework.exe
+E:\C#\Example C#\25_Homework\bin\Debug\net6.0\25_Homework.deps.json
+E:\C#\Example C#\25_Homework\bin\Debug\net6.0\25_Homework.runtimeconfig.json
+E:\C#\Example C#\25_Homework\bin\Debug\net6.0\25_Homework.dll
+E:\C#\Example C#\25_Homework\bin\Debug\net6.0\25_Homework.pdb
+E:\C#\Example C#\25_Homework\obj\Debug\net6.0\25_Homework.dll
+E:\C#\Example C#\25_Homework\obj\Debug\net6.0\refint\25_Homework.dll
+E:\C#\Example C#\25_Homework\obj\Debug\net6.0\25_Homework.pdb
+E:\C#\Example C#\25_Homework\obj\Debug\net6.0\25_Homework.genruntimeconfig.cache
+E:\C#\Example C#\25_Homework\obj\Debug\net6.0\ref\25_Homework.dll
+E:\C#\Homework\Lesson_04_C#\25\bin\Debug\net6.0\25_Homework.exe
+E:\C#\Homework\Lesson_04_C#\25\bin\Debug\net6.0\25_Homework.deps.json
+E:\C#\Homework\Lesson_04_C#\25\bin\Debug\net6.0\25_Homework.runtimeconfig.json
+E:\C#\Homework\Lesson_04_C#\25\bin\Debug\net6.0\25_Homework.dll
+E:\C#\Homework\Lesson_04_C#\25\bin\Debug\net6.0\25_Homework.pdb
+E:\C#\Homework\Lesson_04_C#\25\obj\Debug\net6.0\25_Homework.csproj.AssemblyReference.cache
+E:\C#\Homework\Lesson_04_C#\25\obj\Debug\net6.0\25_Homework.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Homework\Lesson_04_C#\25\obj\Debug\net6.0\25_Homework.AssemblyInfoInputs.cache
+E:\C#\Homework\Lesson_04_C#\25\obj\Debug\net6.0\25_Homework.AssemblyInfo.cs
+E:\C#\Homework\Lesson_04_C#\25\obj\Debug\net6.0\25_Homework.csproj.CoreCompileInputs.cache
+E:\C#\Homework\Lesson_04_C#\25\obj\Debug\net6.0\25_Homework.dll
+E:\C#\Homework\Lesson_04_C#\25\obj\Debug\net6.0\refint\25_Homework.dll
+E:\C#\Homework\Lesson_04_C#\25\obj\Debug\net6.0\25_Homework.pdb
+E:\C#\Homework\Lesson_04_C#\25\obj\Debug\net6.0\25_Homework.genruntimeconfig.cache
+E:\C#\Homework\Lesson_04_C#\25\obj\Debug\net6.0\ref\25_Homework.dll
